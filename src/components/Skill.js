@@ -1,6 +1,6 @@
 import React from "react";
 
-const Prices = () => {
+const Skill = () => {
   const [header] = React.useState({
     mainHeader: "Study Carrier",
     subHeading: "Performence",
@@ -29,16 +29,16 @@ const Prices = () => {
           <div className="commonBorder"></div>
         </div>
         <div className="row">
-          {state.map((prices) => (
-            <div className="col-12" key={prices.id}>
+          {state.map((Skill) => (
+            <div className="col-12" key={Skill.id}>
               <div className="price">
 
               
                 <ul>
-                  <li>{prices.msg1}</li>
-                  <li>{prices.msg2}</li>
-                  <li>{prices.msg3}</li>
-                  <li>{prices.msg4}</li>
+                  <li>{Skill.msg1}</li>
+                  <li>{Skill.msg2}</li>
+                  <li>{Skill.msg3}</li>
+                  <li>{Skill.msg4}</li>
                 
                 </ul>
                
@@ -52,4 +52,4 @@ const Prices = () => {
   );
 };
 
-export default Prices;
+export default Skill;

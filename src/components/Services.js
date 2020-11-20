@@ -25,8 +25,8 @@ const Services = () => {
       icon: <FaCamera className="commonIcons" />,
       heading: "Launguage",
       text:
-       "JavaSript Frameworks ,(Node,Express,Reactjs) ,java\
-         ,PHP ,Html, Css"
+       "JavaSript Frameworks ,(Node,Express,Reactjs) ,java ,PHP ,Html, Css"
+        
       
     },
     {
@@ -34,8 +34,8 @@ const Services = () => {
       icon: <FaCircleNotch className="commonIcons" />,
       heading: "DataBase USe",
       text:
-        "MongoDB DataBase\
-        MYsql Database",
+        "MongoDB DataBase, MYsql Database",
+       
     },
   ]);
   return (

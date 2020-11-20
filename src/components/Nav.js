@@ -22,9 +22,7 @@ const Nav = () => {
               <li>
                 <a href="">Skills</a>
               </li>
-              <li>
-               
-              </li>
+
             </ul>
           ) : (
             ""
