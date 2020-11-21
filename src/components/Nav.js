@@ -13,7 +13,9 @@ const Nav = () => {
           </ul>
           {state ? (
             <ul className="navbar__right">
-             
+               <li>
+               <h1>My PortFolio</h1>
+              </li>
               <li>
                 <a href="">Skills</a>
               </li>
