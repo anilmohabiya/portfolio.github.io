@@ -49,6 +49,14 @@ body {
   padding: 0 15px;
 }
 
+.navbar__right li h1{
+  color: #dfdfdf;
+  
+}
+
+.navbar__right li h1:hover{
+  color: blueviolet;
+}
 /* Helpers */
 .container {
   width: 1200px;
