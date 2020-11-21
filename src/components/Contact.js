@@ -22,12 +22,12 @@ const Contact = () => {
                
               </p>
               <ul className="contactCircles">
-                 <li>
-               <FaFacebookF className="contactIcon" />
+                <li>
+                <a href="https://www.facebook.com/anil.mohabiya"><FaFacebookF className="contactIcon" /></a> 
                 </li>
           
                 <li>
-               <FaInstagram className="contactIcon" />
+                <a href="https://www.instagram.com/anil_mohabiya/"><FaInstagram className="contactIcon" /></a>
                   
                 </li>
               </ul>
