@@ -16,10 +16,6 @@ const Nav = () => {
                <li>
                <h1>My PortFolio</h1>
               </li>
-              <li>
-                <a href="">Skills</a>
-              </li>
-
             </ul>
           ) : (
             ""
