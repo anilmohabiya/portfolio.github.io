@@ -14,7 +14,7 @@ const Skill = () => {
       heading: "About Marks",
       msg1: "CBSE: 10th pass with 77.9%" ,
       msg2: "UP BOARD: 12th pass with 72.4% " ,
-      msg3: "Diploma: pass with%",
+      msg3: "Diploma: pass with 71%",
       msg4:"BSC-IT: pass with A Grade"
     },
     
