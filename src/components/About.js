@@ -10,7 +10,9 @@ const About = () => {
     { id: 1, title: "Name:", text: "Anil Gupta" },
     { id: 2, title: "Email:", text: "anilmohabiya1053@gmail.com" },
     { id: 3, title: "Phone:", text: "8779838452" },
-   
+    { id: 4, title: "GithubLink:", text:  <a href="https://github.com/anilmohabiya" className="btn btn-primary">
+    CheckIn
+  </a>, },
   ]);
   return (
     <div className="about">
