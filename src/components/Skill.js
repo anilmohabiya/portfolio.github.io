@@ -6,7 +6,7 @@ const Skill = () => {
     subHeading: "Performence",
    
     text:
-      "I am Graduatation complete in Mumbai 2020. studied in Bsc-IT Pass with A Grade",
+      "I complete my Graduation in Mumbai 2020. studied in Bsc-IT Pass with A Grade",
   });
   const [state] = React.useState([
     {
